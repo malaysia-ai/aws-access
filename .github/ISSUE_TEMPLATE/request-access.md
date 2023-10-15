@@ -1,6 +1,6 @@
 ---
 name: Request access
-about: Access to EKS
+about: Request access to AWS
 title: ''
 labels: access
 assignees: oscarnz
